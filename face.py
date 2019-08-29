@@ -4,8 +4,8 @@ import io
 from PIL import Image
 import base64
 
-subscription_key = "48a7cf170f424bf188229eef7ac7869f"
-#subscription_key = "dbe9c590b93e4838b210ef0a413ceab3"
+subscription_key = ""
+#subscription_key = ""
 #################################################
 #face-detect 1
 #################################################
